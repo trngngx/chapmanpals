@@ -1,0 +1,21 @@
+.gif{
+    background-color: #fef8eb;
+}
+
+.info{
+    background-color: #f4e8da;
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 100vh;
+}
+
+@media (max-width: 576px) {
+    img{
+        width: 100vw;
+        height: auto;
+    }
+}
